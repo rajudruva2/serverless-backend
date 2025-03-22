@@ -1,0 +1,9 @@
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/controller/AuthController.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/BackendApplication.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/dto/LoginRequest.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/security/JwtUtil.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/controller/ProfileController.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/model/User.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/service/UserRepository.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/dto/UserProfileDTO.java
+/home/ubuntu/serverless-backend/src/main/java/com/example/backend/dto/SignupRequest.java
